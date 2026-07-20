@@ -79,5 +79,16 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 12 Monster records."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_forest_maps_2026_07_20",
+    "name_en": "Wiki import: Forest Maps",
+    "name_th": null,
+    "description": "Imported Forest Entrance and Strange Forest map records with documented creature lists.",
+    "version": "0.9.0",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Forest_Entrance", "https://the-wild-darkness.fandom.com/wiki/Strange_Forest"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 2 Map records."],
+    "breaking_changes": []
   }
 ]
