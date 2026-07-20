@@ -101,5 +101,16 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 1 Map record."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_wasteland_snowy_ridge_2026_07_20",
+    "name_en": "Wiki import: Endless Wasteland and Snowy Ridge",
+    "name_th": null,
+    "description": "Imported additional overworld map records and documented creature lists.",
+    "version": "0.9.0",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Endless_Wasteland", "https://the-wild-darkness.fandom.com/wiki/Snowy_Ridge"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 2 Map records."],
+    "breaking_changes": []
   }
 ]
