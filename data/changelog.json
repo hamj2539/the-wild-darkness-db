@@ -379,5 +379,16 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 38 Crafting Material records.", "Marked the Crafting Materials page catalogue as complete."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_food_raw_ingredients_2026_07_20",
+    "name_en": "Wiki import: Food raw ingredients",
+    "name_th": null,
+    "description": "Imported named raw food ingredients from the Food page, preserving null gameplay values not documented there.",
+    "version": "0.4.1",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Food"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 32 raw Food records."],
+    "breaking_changes": []
   }
 ]
