@@ -43,5 +43,16 @@
       "Added 19 Magic Totem records."
     ],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_food_recipes_2026_07_20",
+    "name_en": "Wiki import: Food and Recipes",
+    "name_th": null,
+    "description": "Imported source-backed food entries and cooking recipes from the community wiki.",
+    "version": "0.4.0",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Recipes"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 30 Food records.", "Added 16 Recipe records."],
+    "breaking_changes": []
   }
 ]
