@@ -260,5 +260,16 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 12 artifact Armor records.", "Updated armor catalogue coverage."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_armor_artifacts_part_2_2026_07_20",
+    "name_en": "Wiki import: Armor artifacts part 2",
+    "name_th": "นำเข้า Wiki: เกราะอาร์ติแฟกต์ ชุดที่ 2",
+    "description": "Imported source-backed artifact hats and helmets.",
+    "version": "0.6.6",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Armor"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 14 artifact Armor records.", "Updated armor catalogue coverage."],
+    "breaking_changes": []
   }
 ]
