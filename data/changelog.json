@@ -68,5 +68,16 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 15 Material records.", "Added 12 Building records."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_forest_monsters_2026_07_20",
+    "name_en": "Wiki import: Forest Monsters",
+    "name_th": null,
+    "description": "Imported creatures documented in Forest Entrance and Strange Forest.",
+    "version": "0.8.0",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Forest_Entrance", "https://the-wild-darkness.fandom.com/wiki/Strange_Forest"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 12 Monster records."],
+    "breaking_changes": []
   }
 ]
