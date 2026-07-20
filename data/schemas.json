@@ -16,6 +16,7 @@
     "maps": ["map_type", "biome", "unlock_condition", "resources", "monsters", "notes"],
     "buildings": ["building_type", "function", "build_recipe", "unlock", "notes"],
     "quests": ["quest_type", "unlock_condition", "objectives", "rewards", "notes"],
-    "items": ["item_type", "rarity", "obtain_methods", "effects", "notes"]
+    "items": ["item_type", "rarity", "obtain_methods", "effects", "notes"],
+    "coverage": ["dataset", "status", "included_scope", "unimported_scope", "unverified_fields", "notes"]
   }
 }

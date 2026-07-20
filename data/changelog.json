@@ -161,5 +161,16 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 36 Weapon records.", "Added 29 Armor records.", "Added 6 Quest records."],
     "breaking_changes": []
+  },
+  {
+    "id": "data_coverage_tracking_2026_07_20",
+    "name_en": "Data coverage tracking",
+    "name_th": "ติดตามความครบถ้วนของข้อมูล",
+    "description": "Added a source-backed status register so incomplete catalogues and unverified fields are explicit.",
+    "version": "0.6.1",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Weapons", "https://the-wild-darkness.fandom.com/wiki/Armor"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added coverage records for weapons, armor, and accessories."],
+    "breaking_changes": []
   }
 ]

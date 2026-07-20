@@ -1,0 +1,47 @@
+[
+  {
+    "id": "weapons_catalogue_coverage",
+    "name_en": "Weapons catalogue coverage",
+    "name_th": "สถานะความครบถ้วนของรายการอาวุธ",
+    "description": "Partial import. The listed basic tiered weapons are present, but the source page contains additional entries that have not yet been imported.",
+    "version": "0.5.0",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Weapons"],
+    "updated_at": "2026-07-20",
+    "dataset": "weapons",
+    "status": "partial",
+    "included_scope": ["Tiered dagger weapons", "Tiered sword weapons", "Tiered blunt weapons", "Tiered two-hand blunt weapons", "Tiered combat weapons"],
+    "unimported_scope": ["Uncraftable and artifact entries in every weapon category", "Remaining two-hand sword entries", "Staff category", "Bow category", "Arrow category"],
+    "unverified_fields": ["name_th", "description", "version", "attack", "attack_speed", "durability", "craft_recipe", "possible_options", "recommended_classes"],
+    "notes": "A null field means the source page used for this import did not verify that value. Do not treat the current record count as the complete weapon catalogue."
+  },
+  {
+    "id": "armor_catalogue_coverage",
+    "name_en": "Armor catalogue coverage",
+    "name_th": "สถานะความครบถ้วนของรายการเกราะ",
+    "description": "Partial import. The listed tiered shields, clothes, light armor, heavy armor, and hats are present, but the source page contains additional entries that have not yet been imported.",
+    "version": "0.6.0",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Armor"],
+    "updated_at": "2026-07-20",
+    "dataset": "armor",
+    "status": "partial",
+    "included_scope": ["Tiered shields", "Tiered clothes", "Tiered light armor", "Tiered heavy armor", "Tiered hats"],
+    "unimported_scope": ["Uncraftable and artifact entries in every armor category", "Helmet category", "Gloves category", "Shoes category", "Cloak category"],
+    "unverified_fields": ["name_th", "description", "version", "defense", "durability", "craft_recipe", "possible_options", "recommended_classes"],
+    "notes": "A null field means the source page used for this import did not verify that value. Do not treat the current record count as the complete armor catalogue."
+  },
+  {
+    "id": "accessories_catalogue_coverage",
+    "name_en": "Accessories catalogue coverage",
+    "name_th": "สถานะความครบถ้วนของรายการเครื่องประดับ",
+    "description": "Not imported. The Armor source page lists accessory entries, but they belong in the separate accessories dataset and have not yet been added.",
+    "version": "0.6.0",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Armor"],
+    "updated_at": "2026-07-20",
+    "dataset": "accessories",
+    "status": "not_started",
+    "included_scope": [],
+    "unimported_scope": ["Accessory category entries"],
+    "unverified_fields": [],
+    "notes": "This dataset remains empty until individual accessories are imported from a source-backed list."
+  }
+]
