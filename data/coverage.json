@@ -93,16 +93,16 @@
     "id": "materials_catalogue_coverage",
     "name_en": "Materials catalogue coverage",
     "name_th": "สถานะความครบถ้วนของวัสดุ",
-    "description": "Expanded from the referenced Crafting Materials list; remaining listed entries have not yet been imported.",
-    "version": "0.7.1",
+    "description": "Complete import of entries listed on the referenced Crafting Materials page.",
+    "version": "0.7.2",
     "source": ["https://the-wild-darkness.fandom.com/wiki/Crafting_Materials"],
     "updated_at": "2026-07-20",
     "dataset": "materials",
-    "status": "partial",
-    "included_scope": ["Base raw materials", "Selected processed materials", "First alphabetical special-material entries"],
-    "unimported_scope": ["Remaining materials listed after Fish Fin Fragment"],
+    "status": "catalogue_complete",
+    "included_scope": ["All entries listed on the Crafting Materials page"],
+    "unimported_scope": [],
     "unverified_fields": ["name_th", "description", "version", "tier", "used_in"],
-    "notes": "Material category and obtain method are set only when explicitly stated in the referenced list."
+    "notes": "Material category and obtain method are set only when explicitly stated in the referenced list; Alcohol retains null values because the list supplies no details."
   },
   {
     "id": "monsters_catalogue_coverage",

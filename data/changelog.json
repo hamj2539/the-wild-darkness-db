@@ -368,5 +368,16 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 26 Normal Mission records.", "Marked documented Missions table scope as complete."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_complete_crafting_materials_2026_07_20",
+    "name_en": "Wiki import: Complete Crafting Materials catalogue",
+    "name_th": null,
+    "description": "Imported the remaining entries listed on the Crafting Materials page and marked that page scope complete.",
+    "version": "0.7.2",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Crafting_Materials"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 38 Crafting Material records.", "Marked the Crafting Materials page catalogue as complete."],
+    "breaking_changes": []
   }
 ]
