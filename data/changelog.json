@@ -150,5 +150,16 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 8 Weapon records.", "Added 8 Armor records."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_equipment_quests_2026_07_20",
+    "name_en": "Wiki import: Expanded Equipment and Starting Missions",
+    "name_th": null,
+    "description": "Expanded source-backed weapon and armor catalogues and added starting mission records.",
+    "version": "0.9.0",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Weapons", "https://the-wild-darkness.fandom.com/wiki/Armor", "https://the-wild-darkness.fandom.com/wiki/Missions"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 36 Weapon records.", "Added 29 Armor records.", "Added 6 Quest records."],
+    "breaking_changes": []
   }
 ]

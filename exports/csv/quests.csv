@@ -1,1 +1,7 @@
 "id","name_en","name_th","description","version","source","updated_at","quest_type","unlock_condition","objectives","rewards","notes"
+"kill_20_ground_snake","Kill 20 Ground Snake","","","","[""https://the-wild-darkness.fandom.com/wiki/Missions""]","2026-07-20","starting_mission","","[""Kill 20 Ground Snake""]","[""Steel Ore x1""]",""
+"craft_3_mushroom_stew","Craft 3 Mushroom Stew","","","","[""https://the-wild-darkness.fandom.com/wiki/Missions""]","2026-07-20","starting_mission","","[""Craft Mushroom Stew x3""]","[""Honey x1""]",""
+"kill_3_mineral_predator","Kill 3 Mineral Predator","","","","[""https://the-wild-darkness.fandom.com/wiki/Missions""]","2026-07-20","starting_mission","","[""Kill Mineral Predator x3""]","[""Lingzhi Mushroom x1""]",""
+"craft_3_pumpkin_pie","Craft 3 Pumpkin Pie","","","","[""https://the-wild-darkness.fandom.com/wiki/Missions""]","2026-07-20","starting_mission","","[""Craft Pumpkin Pie x3""]","[""Lingzhi Mushroom x1""]",""
+"kill_10_goblin_rogue","Kill 10 Goblin Rogue","","","","[""https://the-wild-darkness.fandom.com/wiki/Missions""]","2026-07-20","starting_mission","","[""Kill Goblin Rogue x10""]","[""Jerky x1""]",""
+"survive_400_days","Survive for 400 Days","","","","[""https://the-wild-darkness.fandom.com/wiki/Missions""]","2026-07-20","starting_mission","","[""Survive for 400 days""]","[""Star Gems x20""]",""
