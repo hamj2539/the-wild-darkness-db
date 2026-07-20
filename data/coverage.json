@@ -78,16 +78,16 @@
     "id": "quests_catalogue_coverage",
     "name_en": "Quests catalogue coverage",
     "name_th": "สถานะความครบถ้วนของภารกิจ",
-    "description": "Complete import of the Starting Mission table; Normal Mission entries remain to be imported.",
-    "version": "0.9.1",
+    "description": "Complete import of the Starting and Normal Mission tables documented by the referenced page.",
+    "version": "0.9.2",
     "source": ["https://the-wild-darkness.fandom.com/wiki/Missions"],
     "updated_at": "2026-07-20",
     "dataset": "quests",
-    "status": "partial",
-    "included_scope": ["All documented Starting Missions"],
-    "unimported_scope": ["Normal Missions"],
+    "status": "catalogue_complete",
+    "included_scope": ["All documented Starting Missions", "All documented Normal Missions"],
+    "unimported_scope": [],
     "unverified_fields": ["name_th", "description", "version", "unlock_condition"],
-    "notes": "The source says a run receives four Starting Missions and can reset them; this metadata is not duplicated on each entry."
+    "notes": "The page is marked as a community stub; this status is complete only for the mission entries currently documented on that page."
   },
   {
     "id": "materials_catalogue_coverage",

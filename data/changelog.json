@@ -357,5 +357,16 @@
       "Added 7 coverage records for complete, partial, and not-started datasets."
     ],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_normal_missions_2026_07_20",
+    "name_en": "Wiki import: Normal Missions",
+    "name_th": null,
+    "description": "Imported every Normal Mission entry currently documented in the community Missions table.",
+    "version": "0.9.2",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Missions"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 26 Normal Mission records.", "Marked documented Missions table scope as complete."],
+    "breaking_changes": []
   }
 ]
