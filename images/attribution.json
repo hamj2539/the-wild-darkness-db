@@ -1,0 +1,50 @@
+[
+  {
+    "id": "adventurer",
+    "title": "Adventurer",
+    "file": "images/classes/adventurer.png",
+    "source_page": "https://the-wild-darkness.fandom.com/wiki/Adventurer",
+    "source_image": "https://static.wikia.nocookie.net/the-wild-darkness/images/7/71/Adventurer.jpg/revision/latest/scale-to-width-down/128?cb=20200814232942",
+    "license": "CC-BY-SA (per The Wild Darkness Wiki footer unless otherwise noted)"
+  },
+  {
+    "id": "bread",
+    "title": "Bread",
+    "file": "images/foods/bread.png",
+    "source_page": "https://the-wild-darkness.fandom.com/wiki/Bread",
+    "source_image": "https://static.wikia.nocookie.net/the-wild-darkness/images/e/e1/Bread.png/revision/latest?cb=20230715172739",
+    "license": "CC-BY-SA (per The Wild Darkness Wiki footer unless otherwise noted)"
+  },
+  {
+    "id": "backpack",
+    "title": "Backpack",
+    "file": "images/items/backpack.png",
+    "source_page": "https://the-wild-darkness.fandom.com/wiki/Backpack",
+    "source_image": "https://static.wikia.nocookie.net/the-wild-darkness/images/b/b1/Backpack.png/revision/latest?cb=20200821192212",
+    "license": "CC-BY-SA (per The Wild Darkness Wiki footer unless otherwise noted)"
+  },
+  {
+    "id": "woken_machine",
+    "title": "Woken Machine",
+    "file": "images/bosses/woken_machine.png",
+    "source_page": "https://the-wild-darkness.fandom.com/wiki/Woken_Machine",
+    "source_image": "https://static.wikia.nocookie.net/the-wild-darkness/images/c/c1/Woken_Machine.png/revision/latest/scale-to-width-down/206?cb=20230322034054",
+    "license": "CC-BY-SA (per The Wild Darkness Wiki footer unless otherwise noted)"
+  },
+  {
+    "id": "ground_snake",
+    "title": "Ground Snake",
+    "file": "images/monsters/ground_snake.png",
+    "source_page": "https://the-wild-darkness.fandom.com/wiki/Ground_Snake",
+    "source_image": "https://static.wikia.nocookie.net/the-wild-darkness/images/4/47/Ground_snake.jpg/revision/latest/scale-to-width-down/256?cb=20220626151923",
+    "license": "CC-BY-SA (per The Wild Darkness Wiki footer unless otherwise noted)"
+  },
+  {
+    "id": "stone_knife",
+    "title": "Stone Knife",
+    "file": "images/weapons/stone_knife.png",
+    "source_page": "https://the-wild-darkness.fandom.com/wiki/Stone_Knife",
+    "source_image": "https://static.wikia.nocookie.net/the-wild-darkness/images/5/5c/Tdagger-stoneknife.png/revision/latest?cb=20230824171326",
+    "license": "CC-BY-SA (per The Wild Darkness Wiki footer unless otherwise noted)"
+  }
+]

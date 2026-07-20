@@ -35,3 +35,7 @@ Open `website/index.html` directly in a browser for offline use. `website/data.j
 - PDF: `exports/pdf/`
 
 The generated artifacts are ignored by Git because they are reproducible from the JSON data.
+
+## Image assets
+
+`images/` contains local wiki-sourced assets for offline use. Every downloaded asset is recorded with its source page, original image URL, and attribution in `images/attribution.json`. Run `node scripts/download_wiki_images.mjs` to refresh the current starter set.
