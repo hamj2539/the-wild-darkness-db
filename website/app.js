@@ -41,9 +41,10 @@ function render() {
   }
 }
 async function load() {
+  if (window.WILD_DARKNESS_DATA?.[select.value]) { records = window.WILD_DARKNESS_DATA[select.value]; render(); return; }
   try { records = await fetch(`../data/${select.value}.json`).then((response) => { if (!response.ok) throw new Error(response.status); return response.json(); }); render(); }
   catch { count.textContent = 'เปิดผ่าน static web server เพื่อโหลดข้อมูล'; results.innerHTML = '<p class="empty">ตัวอย่าง: <code>python -m http.server</code> จากโฟลเดอร์โครงการ แล้วเปิด /website/</p>'; }
 }
 function setFields() { const fields = [...new Set(records.flatMap((record) => Object.keys(record)))].filter((key) => !['id','name_en','name_th','description','source','updated_at'].includes(key)); field.replaceChildren(new Option('All fields', '')); fields.forEach((key) => field.add(new Option(label(key), key))); }
-async function loadCoverage() { try { coverageRecords = await fetch('../data/coverage.json').then((response) => response.json()); coverage.replaceChildren(); coverageRecords.forEach((record) => { const item = document.createElement('p'); item.textContent = `${record.dataset}: ${record.status}`; coverage.append(item); }); } catch { coverage.hidden = true; } }
+async function loadCoverage() { try { coverageRecords = window.WILD_DARKNESS_DATA?.coverage || await fetch('../data/coverage.json').then((response) => response.json()); coverage.replaceChildren(); coverageRecords.forEach((record) => { const item = document.createElement('p'); item.textContent = `${record.dataset}: ${record.status}`; coverage.append(item); }); } catch { coverage.hidden = true; } }
 select.addEventListener('change', async () => { await load(); setFields(); }); search.addEventListener('input', render); field.addEventListener('change', render); load().then(() => { setFields(); loadCoverage(); });

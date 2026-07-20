@@ -11,7 +11,7 @@ node scripts/export_excel.mjs
 python scripts/export_pdf.py
 ```
 
-Open `website/index.html` in a static web server. The site reads directly from `data/*.json`, so new validated entries become searchable without a frontend build step.
+Open `website/index.html` directly in a browser for offline use. `website/data.js` is a checked-in data bundle, so no network connection or local web server is required. After changing data, run `node scripts/build_offline_data.mjs` before opening the website.
 
 ## Data contract
 
