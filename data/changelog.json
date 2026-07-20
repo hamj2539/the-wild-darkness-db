@@ -9,5 +9,39 @@
     "updated_at": "2026-07-20",
     "changes": ["Initialized empty, source-gated datasets."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_classes_survival_totems_2026_07_20",
+    "name_en": "Wiki import: Classes and Survival Totems",
+    "name_th": null,
+    "description": "Imported verified class stats, unlock conditions, totem slots, passive skills, and Survival Totem records from the community wiki.",
+    "version": "0.2.0",
+    "source": [
+      "https://the-wild-darkness.fandom.com/wiki/Classes",
+      "https://the-wild-darkness.fandom.com/wiki/Survival_Totems"
+    ],
+    "updated_at": "2026-07-20",
+    "changes": [
+      "Added 15 class records.",
+      "Added 24 Survival Totem records."
+    ],
+    "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_battle_magic_totems_2026_07_20",
+    "name_en": "Wiki import: Battle and Magic Totems",
+    "name_th": null,
+    "description": "Imported verified Battle and Magic Totem records from the community wiki.",
+    "version": "0.2.0",
+    "source": [
+      "https://the-wild-darkness.fandom.com/wiki/Battle_Totems",
+      "https://the-wild-darkness.fandom.com/wiki/Magic_Totems"
+    ],
+    "updated_at": "2026-07-20",
+    "changes": [
+      "Added 18 Battle Totem records.",
+      "Added 19 Magic Totem records."
+    ],
+    "breaking_changes": []
   }
 ]
