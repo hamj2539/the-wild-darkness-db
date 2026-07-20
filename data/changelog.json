@@ -304,5 +304,16 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 3 Armor records.", "Marked the Armor page catalogue as complete."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_complete_accessories_2026_07_20",
+    "name_en": "Wiki import: Complete accessories catalogue",
+    "name_th": "นำเข้า Wiki: รายการเครื่องประดับครบถ้วน",
+    "description": "Imported all accessory entries listed in the Armor page accessory section.",
+    "version": "0.6.10",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Armor"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 9 Accessory records.", "Marked the Accessories page scope as complete."],
+    "breaking_changes": []
   }
 ]

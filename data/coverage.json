@@ -33,15 +33,15 @@
     "id": "accessories_catalogue_coverage",
     "name_en": "Accessories catalogue coverage",
     "name_th": "สถานะความครบถ้วนของรายการเครื่องประดับ",
-    "description": "Not imported. The Armor source page lists accessory entries, but they belong in the separate accessories dataset and have not yet been added.",
+    "description": "Complete catalogue import from the accessory section of the referenced Armor page. Field-level details remain partial where the source list does not state them.",
     "version": "0.6.0",
     "source": ["https://the-wild-darkness.fandom.com/wiki/Armor"],
     "updated_at": "2026-07-20",
     "dataset": "accessories",
-    "status": "not_started",
-    "included_scope": [],
-    "unimported_scope": ["Accessory category entries"],
+    "status": "catalogue_complete",
+    "included_scope": ["Accessory category entries"],
+    "unimported_scope": [],
     "unverified_fields": [],
-    "notes": "This dataset remains empty until individual accessories are imported from a source-backed list."
+    "notes": "All entries listed in the accessory section of the referenced Armor page are present. A null field means the source page used for this import did not verify that value."
   }
 ]
