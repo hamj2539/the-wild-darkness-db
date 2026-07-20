@@ -293,5 +293,16 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 9 Light Armor records.", "Updated armor catalogue coverage."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_complete_armor_catalogue_2026_07_20",
+    "name_en": "Wiki import: Complete armor catalogue",
+    "name_th": "นำเข้า Wiki: รายการเกราะครบถ้วน",
+    "description": "Imported the remaining Armor page entries and marked the referenced catalogue complete.",
+    "version": "0.6.9",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Armor"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 3 Armor records.", "Marked the Armor page catalogue as complete."],
+    "breaking_changes": []
   }
 ]
