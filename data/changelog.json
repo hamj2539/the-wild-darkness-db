@@ -326,5 +326,16 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 13 Magic records."],
     "breaking_changes": []
+  },
+  {
+    "id": "cross_reference_map_monsters_2026_07_20",
+    "name_en": "Cross-reference map monsters",
+    "name_th": "เชื่อมความสัมพันธ์แผนที่และมอนสเตอร์",
+    "description": "Added source-backed monster records referenced by the Endless Wasteland map.",
+    "version": "0.8.1",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Category%3ACreatures", "https://the-wild-darkness.fandom.com/wiki/Endless_Wasteland"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 3 Monster records referenced by maps."],
+    "breaking_changes": []
   }
 ]
