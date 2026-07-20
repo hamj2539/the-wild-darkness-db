@@ -172,5 +172,16 @@
     "updated_at": "2026-07-20",
     "changes": ["Added coverage records for weapons, armor, and accessories."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_weapon_categories_2026_07_20",
+    "name_en": "Wiki import: Remaining standard weapon categories",
+    "name_th": "นำเข้า Wiki: หมวดอาวุธมาตรฐานที่เหลือ",
+    "description": "Imported source-backed standard two-hand sword, staff, bow, and arrow records.",
+    "version": "0.5.1",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Weapons"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 22 Weapon records.", "Updated weapon catalogue coverage."],
+    "breaking_changes": []
   }
 ]
