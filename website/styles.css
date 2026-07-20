@@ -13,6 +13,7 @@ input, select { width: 100%; padding: .75rem; border: 1px solid #475569; border-
 #policy { color: #94a3b8; text-align: right; }
 .results { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 1rem; }
 .card { padding: 1.1rem; border: 1px solid #334155; border-radius: .7rem; background: #1f2937; box-shadow: 0 10px 25px #0002; }
+.record-image { display: block; width: 100%; height: 10rem; margin: 0 0 .9rem; object-fit: contain; border: 1px solid #334155; border-radius: .45rem; background: #111827; }
 .card h2 { margin: 0; font-size: 1.18rem; }.id,.meta { color: #94a3b8; font-size: .8rem; }.description { min-height: 1.4rem; }
 dl { margin: 1rem 0; } dt { color: #c7ee9b; font-size: .78rem; text-transform: uppercase; } dd { margin: .2rem 0 .8rem; overflow-wrap: anywhere; }
 a { color: #93c5fd; }.empty { grid-column: 1 / -1; padding: 2rem; text-align: center; border: 1px dashed #475569; border-radius: .7rem; color: #94a3b8; }

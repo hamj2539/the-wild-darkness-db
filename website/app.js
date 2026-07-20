@@ -25,6 +25,8 @@ function render() {
   }
   for (const record of filtered) {
     const card = template.content.cloneNode(true);
+    const image = window.WILD_DARKNESS_IMAGES?.[`${select.value}:${record.id}`];
+    if (image) { const element = card.querySelector('.record-image'); element.src = `../${image.file}`; element.alt = image.title; element.hidden = false; }
     card.querySelector('h2').textContent = record.name_th && record.name_en ? `${record.name_th} / ${record.name_en}` : record.name_en || record.name_th || record.id;
     card.querySelector('.id').textContent = record.id;
     card.querySelector('.description').textContent = record.description || '';
