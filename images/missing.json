@@ -1,0 +1,247 @@
+[
+  {
+    "dataset": "armor",
+    "folder": "armor",
+    "id": "craftmans_gloves",
+    "title": "Craftman's Gloves",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "armor",
+    "folder": "armor",
+    "id": "dwarf_machine_shield",
+    "title": "Dwarf Machine Shield",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "bosses",
+    "folder": "bosses",
+    "id": "forgotten_guardians",
+    "title": "Forgotten Guardians",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "bosses",
+    "folder": "bosses",
+    "id": "forgotten_guardian_spirits",
+    "title": "Forgotten Guardian Spirits",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "bosses",
+    "folder": "bosses",
+    "id": "forgotten_statues",
+    "title": "Forgotten Statues",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "foods",
+    "folder": "items",
+    "id": "night_shade",
+    "title": "Night Shade",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "chain_lightning",
+    "title": "Chain Lightning",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "dark_missile",
+    "title": "Dark Missile",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "dark_veil",
+    "title": "Dark Veil",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "electroshock",
+    "title": "Electroshock",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "fire_ball",
+    "title": "Fire Ball",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "flash_strike",
+    "title": "Flash Strike",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "frost_blow",
+    "title": "Frost Blow",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "frost_cyclone",
+    "title": "Frost Cyclone",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "ice_spear",
+    "title": "Ice Spear",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "light_barrier",
+    "title": "Light Barrier",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "light_purification",
+    "title": "Light Purification",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "poison_cloud",
+    "title": "Poison Cloud",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "poisonous_weapon",
+    "title": "Poisonous Weapon",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "space_distortion",
+    "title": "Space Distortion",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "space_time_explosion",
+    "title": "Space-Time Explosion",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "summon_fire_servant",
+    "title": "Summon Fire Servant",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "summon_lightning_spear",
+    "title": "Summon Lightning Spear",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "summon_poison_thorn",
+    "title": "Summon Poison Thorn",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "summon_shadow_servant",
+    "title": "Summon Shadow Servant",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "teleport",
+    "title": "Teleport",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "magic",
+    "folder": "items",
+    "id": "throw_fire",
+    "title": "Throw Fire",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "materials",
+    "folder": "items",
+    "id": "bone_shard",
+    "title": "Bone Shard",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "materials",
+    "folder": "items",
+    "id": "dark_knight_crest",
+    "title": "Dark Knight Crest",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "materials",
+    "folder": "items",
+    "id": "iron_ore",
+    "title": "Iron Ore",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "monsters",
+    "folder": "monsters",
+    "id": "small_rat",
+    "title": "Small Rat",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "monsters",
+    "folder": "monsters",
+    "id": "treasure_hunter",
+    "title": "Treasure Hunter",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "totems",
+    "folder": "totems",
+    "id": "forestall_totem",
+    "title": "Forestall Totem",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "totems",
+    "folder": "totems",
+    "id": "iron_defense_totem",
+    "title": "Iron Defense Totem",
+    "reason": "No page thumbnail"
+  },
+  {
+    "dataset": "weapons",
+    "folder": "weapons",
+    "id": "fist_of_the_wild",
+    "title": "Fist of the Wild",
+    "reason": "No page thumbnail"
+  }
+]
