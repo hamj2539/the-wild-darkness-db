@@ -138,15 +138,15 @@
     "id": "items_catalogue_coverage",
     "name_en": "Items catalogue coverage",
     "name_th": "สถานะความครบถ้วนของไอเท็ม",
-    "description": "The generic items dataset is intentionally empty until entries can be sourced without duplicating specialized datasets.",
+    "description": "Started the generic items dataset with the documented inventory-equipment category, excluding specialized dataset duplicates.",
     "version": "0.1.0",
     "source": ["https://the-wild-darkness.fandom.com/wiki/Items"],
     "updated_at": "2026-07-20",
     "dataset": "items",
-    "status": "not_started",
-    "included_scope": [],
-    "unimported_scope": ["Generic non-food, non-equipment, non-material item catalogue"],
+    "status": "partial",
+    "included_scope": ["All documented Equipment/Inventory category entries"],
+    "unimported_scope": ["Remaining generic non-food, non-equipment, non-material item catalogue"],
     "unverified_fields": [],
-    "notes": "The dataset stays empty rather than adding unverified or duplicate records."
+    "notes": "Specialized food, equipment, materials, magic, and totem records remain in their own datasets to avoid duplication."
   }
 ]

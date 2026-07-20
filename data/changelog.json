@@ -401,5 +401,16 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 20 Recipe records."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_food_recipes_items_2026_07_20",
+    "name_en": "Wiki import: Prepared food, recipes, and inventory items",
+    "name_th": null,
+    "description": "Expanded prepared foods and documented recipes, and started the non-duplicate inventory-item dataset.",
+    "version": "0.4.3",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Food", "https://the-wild-darkness.fandom.com/wiki/Recipes", "https://the-wild-darkness.fandom.com/wiki/Category%3AEquipment/Inventory"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 22 Food records.", "Added 14 Recipe records.", "Added 10 Item records."],
+    "breaking_changes": []
   }
 ]
