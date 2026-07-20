@@ -90,5 +90,16 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 2 Map records."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_desolate_meadow_2026_07_20",
+    "name_en": "Wiki import: Desolate Meadow",
+    "name_th": null,
+    "description": "Imported the Desolate Meadow map record and its documented creature list.",
+    "version": "0.9.0",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Desolate_Meadow"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 1 Map record."],
+    "breaking_changes": []
   }
 ]
