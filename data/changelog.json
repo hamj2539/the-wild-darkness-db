@@ -112,5 +112,32 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 2 Map records."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_additional_map_monsters_2026_07_20",
+    "name_en": "Wiki import: Additional Map Monsters",
+    "name_th": null,
+    "description": "Added Monster records referenced by the imported meadow, wasteland, and ridge maps.",
+    "version": "0.8.0",
+    "source": [
+      "https://the-wild-darkness.fandom.com/wiki/Desolate_Meadow",
+      "https://the-wild-darkness.fandom.com/wiki/Endless_Wasteland",
+      "https://the-wild-darkness.fandom.com/wiki/Snowy_Ridge",
+      "https://the-wild-darkness.fandom.com/wiki/Mountain_Goat"
+    ],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 9 Monster records."],
+    "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_spells_bosses_2026_07_20",
+    "name_en": "Wiki import: Spells and Bosses",
+    "name_th": null,
+    "description": "Imported verified spell effects and boss location/drop records.",
+    "version": "0.8.0",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Spells", "https://the-wild-darkness.fandom.com/wiki/Bosses"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 8 Magic records.", "Added 8 Boss records."],
+    "breaking_changes": []
   }
 ]
