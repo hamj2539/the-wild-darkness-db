@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "common_required": ["id", "name_en", "name_th", "description", "version", "source", "updated_at"],
+  "datasets": {
+    "characters": ["unlock_condition", "role", "stats", "totem_slots", "passive_skills", "starting_items", "recommended_builds", "tips"],
+    "totems": ["category", "rarity", "max_level", "effect", "scaling", "recommended_classes", "notes"],
+    "magic": ["element", "mana_cost", "cooldown", "effect", "scaling", "craft_source"],
+    "foods": ["ingredients", "satiety", "hp", "energy", "buffs", "duration"],
+    "recipes": ["result", "ingredients", "station", "unlock"],
+    "weapons": ["weapon_type", "tier", "attack", "attack_speed", "durability", "craft_recipe", "possible_options", "recommended_classes"],
+    "armor": ["armor_type", "tier", "defense", "durability", "craft_recipe", "possible_options", "recommended_classes"],
+    "accessories": ["accessory_type", "tier", "effects", "craft_recipe", "possible_options", "recommended_classes"],
+    "materials": ["material_type", "tier", "obtain_methods", "used_in", "notes"],
+    "monsters": ["map", "biome", "drops", "weakness", "resistance", "notes"],
+    "bosses": ["location", "skills", "drops", "recommended_level", "strategy"],
+    "maps": ["map_type", "biome", "unlock_condition", "resources", "monsters", "notes"],
+    "buildings": ["building_type", "function", "build_recipe", "unlock", "notes"],
+    "quests": ["quest_type", "unlock_condition", "objectives", "rewards", "notes"],
+    "items": ["item_type", "rarity", "obtain_methods", "effects", "notes"]
+  }
+}

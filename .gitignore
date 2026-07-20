@@ -1,0 +1,6 @@
+exports/excel/*.xlsx
+exports/excel/*.png
+exports/excel/*.ndjson
+exports/pdf/*.pdf
+tmp/
+node_modules/

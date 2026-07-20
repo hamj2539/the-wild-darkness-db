@@ -1,0 +1,17 @@
+{
+  "characters": {"id":"", "name_en":"", "name_th":"", "description":"", "version":"", "source":[], "updated_at":"", "unlock_condition":null, "role":null, "stats":{"str":null,"agi":null,"int":null,"sta":null,"luck":null}, "totem_slots":[], "passive_skills":[], "starting_items":[], "recommended_builds":[], "tips":[]},
+  "totems": {"id":"", "name_en":"", "name_th":"", "description":"", "version":"", "source":[], "updated_at":"", "category":null, "rarity":null, "max_level":null, "effect":null, "scaling":[], "recommended_classes":[], "notes":null},
+  "magic": {"id":"", "name_en":"", "name_th":"", "description":"", "version":"", "source":[], "updated_at":"", "element":null, "mana_cost":null, "cooldown":null, "effect":null, "scaling":null, "craft_source":null},
+  "foods": {"id":"", "name_en":"", "name_th":"", "description":"", "version":"", "source":[], "updated_at":"", "ingredients":[], "satiety":null, "hp":null, "energy":null, "buffs":[], "duration":null},
+  "recipes": {"id":"", "name_en":"", "name_th":"", "description":"", "version":"", "source":[], "updated_at":"", "result":null, "ingredients":[], "station":null, "unlock":null},
+  "weapons": {"id":"", "name_en":"", "name_th":"", "description":"", "version":"", "source":[], "updated_at":"", "weapon_type":null, "tier":null, "attack":null, "attack_speed":null, "durability":null, "craft_recipe":[], "possible_options":[], "recommended_classes":[]},
+  "armor": {"id":"", "name_en":"", "name_th":"", "description":"", "version":"", "source":[], "updated_at":"", "armor_type":null, "tier":null, "defense":null, "durability":null, "craft_recipe":[], "possible_options":[], "recommended_classes":[]},
+  "accessories": {"id":"", "name_en":"", "name_th":"", "description":"", "version":"", "source":[], "updated_at":"", "accessory_type":null, "tier":null, "effects":[], "craft_recipe":[], "possible_options":[], "recommended_classes":[]},
+  "materials": {"id":"", "name_en":"", "name_th":"", "description":"", "version":"", "source":[], "updated_at":"", "material_type":null, "tier":null, "obtain_methods":[], "used_in":[], "notes":null},
+  "monsters": {"id":"", "name_en":"", "name_th":"", "description":"", "version":"", "source":[], "updated_at":"", "map":[], "biome":null, "drops":[], "weakness":[], "resistance":[], "notes":null},
+  "bosses": {"id":"", "name_en":"", "name_th":"", "description":"", "version":"", "source":[], "updated_at":"", "location":null, "skills":[], "drops":[], "recommended_level":null, "strategy":null},
+  "maps": {"id":"", "name_en":"", "name_th":"", "description":"", "version":"", "source":[], "updated_at":"", "map_type":null, "biome":null, "unlock_condition":null, "resources":[], "monsters":[], "notes":null},
+  "buildings": {"id":"", "name_en":"", "name_th":"", "description":"", "version":"", "source":[], "updated_at":"", "building_type":null, "function":null, "build_recipe":[], "unlock":null, "notes":null},
+  "quests": {"id":"", "name_en":"", "name_th":"", "description":"", "version":"", "source":[], "updated_at":"", "quest_type":null, "unlock_condition":null, "objectives":[], "rewards":[], "notes":null},
+  "items": {"id":"", "name_en":"", "name_th":"", "description":"", "version":"", "source":[], "updated_at":"", "item_type":null, "rarity":null, "obtain_methods":[], "effects":[], "notes":null}
+}

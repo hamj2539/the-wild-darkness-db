@@ -1,0 +1,13 @@
+[
+  {
+    "id": "project_structure_v0_1",
+    "name_en": "Project Structure v0.1",
+    "name_th": "โครงสร้างโปรเจกต์ v0.1",
+    "description": "Initial source-first database structure, schemas, validation, and export tooling.",
+    "version": "0.1.0",
+    "source": ["https://github.com/"],
+    "updated_at": "2026-07-20",
+    "changes": ["Initialized empty, source-gated datasets."],
+    "breaking_changes": []
+  }
+]

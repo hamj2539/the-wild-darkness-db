@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A source-first database for The Wild Darkness.">
+  <title>The Wild Darkness Database</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <p class="eyebrow">SOURCE-FIRST GAME REFERENCE</p>
+    <h1>The Wild Darkness Database</h1>
+    <p>ฐานข้อมูลที่ตรวจสอบย้อนกลับได้ และพร้อมอัปเดตตามแพตช์</p>
+  </header>
+  <main>
+    <section class="controls" aria-label="Search controls">
+      <label for="dataset">หมวดข้อมูล</label>
+      <select id="dataset"></select>
+      <label for="search">ค้นหา</label>
+      <input id="search" type="search" placeholder="ชื่อไทย, English, หรือ ID">
+    </section>
+    <section class="status" aria-live="polite"><span id="count">กำลังโหลดข้อมูล...</span><span id="policy">แสดงเฉพาะข้อมูลจากไฟล์ JSON ในโครงการนี้</span></section>
+    <section id="results" class="results"></section>
+  </main>
+  <template id="card-template">
+    <article class="card">
+      <h2></h2>
+      <p class="id"></p>
+      <p class="description"></p>
+      <dl></dl>
+      <p class="meta"></p>
+      <p class="sources"></p>
+    </article>
+  </template>
+  <script src="app.js"></script>
+</body>
+</html>
