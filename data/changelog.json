@@ -139,5 +139,16 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 8 Magic records.", "Added 8 Boss records."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_equipment_initial_2026_07_20",
+    "name_en": "Wiki import: Initial Weapons and Armor",
+    "name_th": null,
+    "description": "Imported initial weapon and armor records with types and tiers documented by the community wiki.",
+    "version": "0.5.0",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Weapons", "https://the-wild-darkness.fandom.com/wiki/Armor"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 8 Weapon records.", "Added 8 Armor records."],
+    "breaking_changes": []
   }
 ]
