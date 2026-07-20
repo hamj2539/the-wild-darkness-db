@@ -337,5 +337,25 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 3 Monster records referenced by maps."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_expanded_bosses_missions_materials_2026_07_20",
+    "name_en": "Wiki import: Expanded bosses, starting missions, and materials",
+    "name_th": null,
+    "description": "Expanded source-backed boss, Starting Mission, and Crafting Material records; added transparent dataset coverage records.",
+    "version": "0.9.1",
+    "source": [
+      "https://the-wild-darkness.fandom.com/wiki/Bosses",
+      "https://the-wild-darkness.fandom.com/wiki/Missions",
+      "https://the-wild-darkness.fandom.com/wiki/Crafting_Materials"
+    ],
+    "updated_at": "2026-07-20",
+    "changes": [
+      "Added 37 Boss records across the expanded boss imports.",
+      "Added 28 documented Starting Mission records.",
+      "Added 27 Crafting Material records.",
+      "Added 7 coverage records for complete, partial, and not-started datasets."
+    ],
+    "breaking_changes": []
   }
 ]
