@@ -9,6 +9,7 @@ main { width: min(1100px, calc(100% - 2rem)); margin: 2rem auto 4rem; }
 .controls { display: grid; grid-template-columns: auto minmax(10rem, .6fr) auto minmax(15rem, 1.5fr); gap: .65rem; align-items: center; }
 input, select { width: 100%; padding: .75rem; border: 1px solid #475569; border-radius: .45rem; background: #1f2937; color: inherit; font: inherit; }
 .status { display: flex; justify-content: space-between; gap: 1rem; margin: 1.5rem 0; color: #a7f3d0; font-size: .92rem; }
+.coverage { display: flex; flex-wrap: wrap; gap: .5rem; margin: 1rem 0; }.coverage p { margin: 0; padding: .35rem .6rem; border: 1px solid #475569; border-radius: 99px; color: #c7ee9b; font-size: .8rem; }
 #policy { color: #94a3b8; text-align: right; }
 .results { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 1rem; }
 .card { padding: 1.1rem; border: 1px solid #334155; border-radius: .7rem; background: #1f2937; box-shadow: 0 10px 25px #0002; }

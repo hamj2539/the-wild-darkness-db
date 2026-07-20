@@ -19,7 +19,10 @@
       <select id="dataset"></select>
       <label for="search">ค้นหา</label>
       <input id="search" type="search" placeholder="ชื่อไทย, English, หรือ ID">
+      <label for="field">Field</label>
+      <select id="field"><option value="">All fields</option></select>
     </section>
+    <section id="coverage" class="coverage" aria-live="polite"></section>
     <section class="status" aria-live="polite"><span id="count">กำลังโหลดข้อมูล...</span><span id="policy">แสดงเฉพาะข้อมูลจากไฟล์ JSON ในโครงการนี้</span></section>
     <section id="results" class="results"></section>
   </main>
