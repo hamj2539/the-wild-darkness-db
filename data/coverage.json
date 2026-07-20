@@ -3,16 +3,16 @@
     "id": "weapons_catalogue_coverage",
     "name_en": "Weapons catalogue coverage",
     "name_th": "สถานะความครบถ้วนของรายการอาวุธ",
-    "description": "Partial import. The listed basic tiered weapons are present, but the source page contains additional entries that have not yet been imported.",
+    "description": "Complete catalogue import from the referenced Weapons page. Field-level details remain partial where the source list does not state them.",
     "version": "0.5.0",
     "source": ["https://the-wild-darkness.fandom.com/wiki/Weapons"],
     "updated_at": "2026-07-20",
     "dataset": "weapons",
-    "status": "partial",
+    "status": "catalogue_complete",
     "included_scope": ["Tiered dagger weapons", "Tiered sword weapons", "Tiered blunt weapons", "Tiered two-hand sword weapons", "Tiered two-hand blunt weapons", "Tiered combat weapons", "Tiered staff weapons", "Tiered bow weapons", "Arrow category"],
-    "unimported_scope": ["Artifact entries in every weapon category"],
+    "unimported_scope": [],
     "unverified_fields": ["name_th", "description", "version", "attack", "attack_speed", "durability", "craft_recipe", "possible_options", "recommended_classes"],
-    "notes": "All standard and uncraftable entries from the source list are present. A null field means the source page used for this import did not verify that value; artifact entries are still pending."
+    "notes": "All entries listed on the referenced Weapons page are present. A null field means the source page used for this import did not verify that value."
   },
   {
     "id": "armor_catalogue_coverage",
