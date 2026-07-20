@@ -10,9 +10,9 @@
     "dataset": "weapons",
     "status": "partial",
     "included_scope": ["Tiered dagger weapons", "Tiered sword weapons", "Tiered blunt weapons", "Tiered two-hand sword weapons", "Tiered two-hand blunt weapons", "Tiered combat weapons", "Tiered staff weapons", "Tiered bow weapons", "Arrow category"],
-    "unimported_scope": ["Uncraftable and artifact entries in every weapon category"],
+    "unimported_scope": ["Artifact entries in every weapon category"],
     "unverified_fields": ["name_th", "description", "version", "attack", "attack_speed", "durability", "craft_recipe", "possible_options", "recommended_classes"],
-    "notes": "A null field means the source page used for this import did not verify that value. Do not treat the current record count as the complete weapon catalogue."
+    "notes": "All standard and uncraftable entries from the source list are present. A null field means the source page used for this import did not verify that value; artifact entries are still pending."
   },
   {
     "id": "armor_catalogue_coverage",

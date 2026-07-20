@@ -183,5 +183,16 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 22 Weapon records.", "Updated weapon catalogue coverage."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_uncraftable_weapons_2026_07_20",
+    "name_en": "Wiki import: Uncraftable weapons",
+    "name_th": "นำเข้า Wiki: อาวุธที่สร้างไม่ได้",
+    "description": "Imported source-backed uncraftable weapons across the listed weapon categories.",
+    "version": "0.5.2",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Weapons"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 16 uncraftable Weapon records.", "Updated weapon catalogue coverage."],
+    "breaking_changes": []
   }
 ]
