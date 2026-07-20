@@ -315,5 +315,16 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 9 Accessory records.", "Marked the Accessories page scope as complete."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_complete_spells_2026_07_20",
+    "name_en": "Wiki import: Complete spells catalogue",
+    "name_th": "นำเข้า Wiki: รายการเวทครบถ้วน",
+    "description": "Imported the remaining spell entries listed on the Spells page.",
+    "version": "0.3.1",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Spells"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 13 Magic records."],
+    "breaking_changes": []
   }
 ]
