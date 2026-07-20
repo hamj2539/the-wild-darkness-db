@@ -390,5 +390,16 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 32 raw Food records."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_expanded_recipes_2026_07_20",
+    "name_en": "Wiki import: Expanded cuisine recipes",
+    "name_th": null,
+    "description": "Imported additional documented cooked-cuisine recipes from the community Recipes guide.",
+    "version": "0.4.2",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Recipes"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 20 Recipe records."],
+    "breaking_changes": []
   }
 ]
