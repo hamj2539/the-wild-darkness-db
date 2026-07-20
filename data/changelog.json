@@ -216,5 +216,16 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 21 artifact Weapon records.", "Marked the Weapons page catalogue as complete."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_armor_helmets_gloves_2026_07_20",
+    "name_en": "Wiki import: Armor helmets and gloves",
+    "name_th": "นำเข้า Wiki: หมวกเกราะและถุงมือ",
+    "description": "Imported source-backed standard helmet and glove records.",
+    "version": "0.6.2",
+    "source": ["https://the-wild-darkness.fandom.com/wiki/Armor"],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 14 Armor records.", "Updated armor catalogue coverage."],
+    "breaking_changes": []
   }
 ]
