@@ -54,5 +54,19 @@
     "updated_at": "2026-07-20",
     "changes": ["Added 30 Food records.", "Added 16 Recipe records."],
     "breaking_changes": []
+  },
+  {
+    "id": "wiki_import_materials_buildings_2026_07_20",
+    "name_en": "Wiki import: Materials and Buildings",
+    "name_th": null,
+    "description": "Imported source-backed crafting materials and Craft/Magic structures from the community wiki.",
+    "version": "0.7.0",
+    "source": [
+      "https://the-wild-darkness.fandom.com/wiki/Crafting_Materials",
+      "https://the-wild-darkness.fandom.com/wiki/Craft_and_Magic"
+    ],
+    "updated_at": "2026-07-20",
+    "changes": ["Added 15 Material records.", "Added 12 Building records."],
+    "breaking_changes": []
   }
 ]
